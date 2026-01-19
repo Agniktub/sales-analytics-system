@@ -1,0 +1,11 @@
+```txt
+# Libraries used in the Python code files
+
+# External Library (needs installation)
+requests
+
+# Built-in Python Libraries (no installation needed)
+datetime
+pathlib
+```
+
