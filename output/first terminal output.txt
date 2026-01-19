@@ -1,0 +1,11 @@
+=====================================
+SALES ANALYTICS SYSTEM
+=====================================
+
+[1/10] Reading sales data...
+✓ Successfully read 80 transactions
+
+[2/10] Parsing and cleaning data...
+✓ Parsed 80 records
+
+Do you want to filter data? (y/n):
