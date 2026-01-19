@@ -1,0 +1,71 @@
+transactionID|productID|productName|quantity|customer|rating|brand|category|title|enriched
+T018|107|USB Cable|8|C009|None|None|None|None|False
+T063|110|Laptop Charger|6|C022|None|None|None|None|False
+T023|109|Wireless Mouse|9|C022|None|None|None|None|False
+T059|102|MouseWireless|4|C010|None|None|None|None|False
+T035|102|Mouse|4|C011|None|None|None|None|False
+T061|109|Wireless Mouse|2|C009|None|None|None|None|False
+T057|101|LaptopPremium|10|C004|None|None|None|None|False
+T034|107|USB Cable|6|C029|None|None|None|None|False
+T050|104|MonitorLED|10|C024|None|None|None|None|False
+T024|109|Wireless Mouse|5|C011|None|None|None|None|False
+T004|109|Wireless Mouse|9|C008|None|None|None|None|False
+T068|109|Wireless Mouse|6|C018|None|None|None|None|False
+T066|105|Webcam|8|C023|None|None|None|None|False
+T064|109|Wireless Mouse|5|C003|None|None|None|None|False
+T045|108|External Hard Drive|9|C002|None|None|None|None|False
+T015|105|Webcam|9|C022|None|None|None|None|False
+T055|105|WebcamHD|6|C009|None|None|None|None|False
+T002|102|Mouse|9|C019|None|None|None|None|False
+T051|101|LaptopPremium|10|C017|None|None|None|None|False
+T005|110|Laptop Charger|1|C026|None|None|None|None|False
+T007|102|Mouse|7|C012|None|None|None|None|False
+T010|110|Laptop Charger|2|C022|None|None|None|None|False
+T032|103|Keyboard|8|C009|None|None|None|None|False
+T008|110|Laptop Charger|1|C015|None|None|None|None|False
+T060|108|External Hard Drive1TB|9|C010|None|None|None|None|False
+T062|102|Mouse|9|C009|None|None|None|None|False
+T003|101|Laptop|2|C008|None|None|None|None|False
+T022|107|USB Cable|2|C013|None|None|None|None|False
+T046|102|MouseWireless|4|C014|None|None|None|None|False
+T049|109|Wireless MouseGaming|8|C007|None|None|None|None|False
+T006|107|USB Cable|5|C007|None|None|None|None|False
+T011|105|Webcam|4|C013|None|None|None|None|False
+T031|102|Mouse|8|C025|None|None|None|None|False
+T033|104|Monitor|9|C023|None|None|None|None|False
+T058|109|Wireless MouseGaming|9|C005|None|None|None|None|False
+T029|110|Laptop Charger|8|C004|None|None|None|None|False
+T030|105|Webcam|1|C029|None|None|None|None|False
+T021|102|Mouse|1|C005|None|None|None|None|False
+T070|106|Headphones|4|C004|None|None|None|None|False
+T028|106|Headphones|3|C025|None|None|None|None|False
+T014|109|Wireless Mouse|4|C015|None|None|None|None|False
+T019|104|Monitor|9|C024|None|None|None|None|False
+T054|110|Laptop Charger65W|7|C019|None|None|None|None|False
+T001|102|Mouse|5|C008|None|None|None|None|False
+T036|110|Laptop Charger|4|C008|None|None|None|None|False
+T020|110|Laptop Charger|6|C005|None|None|None|None|False
+T037|102|Mouse|1|C003|None|None|None|None|False
+T012|108|External Hard Drive|6|C012|None|None|None|None|False
+T048|101|LaptopPremium|5|C010|None|None|None|None|False
+T044|103|Keyboard|8|C028|None|None|None|None|False
+T025|105|Webcam|3|C001|None|None|None|None|False
+T027|105|Webcam|9|C007|None|None|None|None|False
+T013|104|Monitor|5|C020|None|None|None|None|False
+T017|102|Mouse|10|C007|None|None|None|None|False
+T038|106|Headphones|9|C009|None|None|None|None|False
+T052|101|LaptopPremium|2|C003|None|None|None|None|False
+T042|102|Mouse|7|C026|None|None|None|None|False
+T053|104|MonitorLED|2|C019|None|None|None|None|False
+T040|107|USB Cable|2|C022|None|None|None|None|False
+T065|105|Webcam|1|C025|None|None|None|None|False
+T039|104|Monitor|3|C008|None|None|None|None|False
+T016|101|Laptop|1|C013|None|None|None|None|False
+T041|106|Headphones|7|C028|None|None|None|None|False
+T043|104|Monitor|4|C005|None|None|None|None|False
+T009|107|USB Cable|9|C027|None|None|None|None|False
+T056|103|KeyboardMechanical|5|C011|None|None|None|None|False
+T047|108|External Hard Drive1TB|7|C006|None|None|None|None|False
+T026|109|Wireless Mouse|3|C030|None|None|None|None|False
+T069|107|USB Cable|1|C012|None|None|None|None|False
+T067|109|Wireless Mouse|2|C029|None|None|None|None|False
